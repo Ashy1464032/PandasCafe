@@ -1,0 +1,13 @@
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\bin\Debug\PandaCafe.exe.config
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\bin\Debug\PandaCafe.exe
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\bin\Debug\PandaCafe.pdb
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.csprojAssemblyReference.cache
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.Form1.resources
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.Properties.Resources.resources
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.csproj.GenerateResource.cache
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.csproj.CoreCompileInputs.cache
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.exe
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.pdb
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.Coffee.resources
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.Sandwich.resources
+E:\Computer Programming\C-Sharp\PandaCafe\PandaCafe\obj\Debug\PandaCafe.Cakes.resources
